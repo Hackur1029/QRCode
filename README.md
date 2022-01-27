@@ -1,0 +1,1 @@
+https://qrit.netlify.app
